@@ -138,7 +138,7 @@ dmypy.json
 cython_debug/
 
 # Tmp dirs
-tmp
+# tmp
 utils/tmp
 
 # IDE project files
